@@ -5,7 +5,7 @@
 - 💻 I'm a fullstack web developer
 - ⚛️ JavaScript | NodeJS | React
 - 📝 I'm an electrical engineering student
-- 📫 How to reach me: [LinkedIn](www.linkedin.com/in/schettinomarcosb), [Email](marcos.schettino@engenharia.ufjf.br)
+- 📫 How to reach me: [LinkedIn](www.linkedin.com/in/marcos-schettino-profile), [Email](marcos.schettino@engenharia.ufjf.br)
 
 ## Languages and Tools
 
